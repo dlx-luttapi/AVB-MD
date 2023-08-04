@@ -1,7 +1,7 @@
   <p align="center">  
   <a href="https://i.ibb.co/wRgDy33/20221104-225109.png">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/wRgDy33/20221104-225109.png">
-    <h1 align="center"> Dragon-MD-V4 </h1>
+    <h1 align="center"> AVB-MD </h1>
   </a>
 </p>  
 <p align="center">
@@ -42,7 +42,7 @@
 
 ●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login) or [railway.app](https://railway.app).***
 
-●.  ***Click [FORK](https://github.com/TechwithAmee1/Dragon-MD-V4/fork)***
+●.  ***Click [FORK](https://github.com/dlx-luttapi/AVB-MD/fork)***
 
 ---
 
