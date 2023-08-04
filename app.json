@@ -1,14 +1,14 @@
 {
-  "name": "Dragon-MD-V4",
+  "name": "AVB-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Dragon-MD-V4", "DragonBot", "Dragon","DragonMD","multi device"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "AVB-MD", "ARC", "ARC-MD","AVB","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "𝙼𝚛.𝙰𝚖𝚎𝚎𝚜𝚑𝚊"
+      "value": "Mr.Akku"
   },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
@@ -68,7 +68,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94767453646"
+       "value": "9562064987"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session",
@@ -94,12 +94,12 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "ᴅʀᴀɢᴏɴ-ᴍᴅ (ᴠ𝟺.𝟶) ✔;ᴍʀ.ᴀᴍᴇᴇsʜᴀ",
+     "value": "AVB-ᴍᴅ ✔;ᴍʀ.AKKU",
      "required": false 
   },
   "CAPTION": {
     "description": "Put Your Caption.",
-     "value": "_*🪄 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐎𝐮𝐫 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🪄*_ \nhttps://youtube.com/@Dragon-MD-OFC",
+     "value": "_*🪄 ARC CODER 🪄",
      "required": false 
   },
   "heroku": {
